@@ -1,6 +1,10 @@
 package PRAK201_2010817210023_MuhammadAuliaAkbar;
 
 public class Buah {
+
+
+
+    // Test On Github
     private String nama;
 
     private double hargakasar;
